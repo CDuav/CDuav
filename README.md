@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Juan Antonio Rincon Torres
-- Duarte Vázquez José Carlos
+- Duarte Vázquez José Carlos 
 
 ## Objetivo general
 Nuestro proyecto tiene como plan ser un sistema enfocado a mantener con diversos parametros cuidar una planta sin supervisón de añguna persona
@@ -35,12 +35,12 @@ esto para que las plantas o semillas tengan una humedad y temeperatura así como
 ## Epicas del proyecto
 - quiero que mis plantas se mantengan en optimas condiciones
 - quiero que el programa avise en cuando debo llenar el tanque de Agua
+- -necesito que la maceta see encuentre en optimas condiciones para que mis semilas germinen, o plantas puedan Crecer más.
 
 ## Tabla de historias de usuario
 
 | Id | Historias de Usuario                                                                                                                    | Prioridad | Estimación    | Como probarlo                                                     | Responsable                  |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------|-------------------------------------------------------------------|------------------------------|
-| 1  | Quiero poder conocer el ambiente en el que se encuentra mi mascota  en caso de que se pierda.                                           | Alta      | 3 semanas     | Aumentando temperatura y humedad                                  | Erik Daniel Mendez Enriquez  |
-| 2  | Quiero poder saber si mi mascota se encuentra en peligro de intoxicación o si  el ambiente que lo rodea hay peligro de una fuga de gas. | Alta      | 2 a 3 semanas | Usando un gas de manera controlada cerca del sensor               | Oscar Iván Pérez Mejía       |
-| 3  | Quiero conocer si mi mascota corre el riesgo de sufrir algún daño por  quemadura mientras no me encuentro con él.                       | Alta      | 3 semanas     | Exponiendo el proyecto a una llama controlada                     | Alyne Elizabeth Rojas Gloria |
-| 4  | En caso de perder a mi mascota quiero poder dar con el en tiempo  real para ir a buscarlo y alcanzarlo.                                 | Alta      | 3 semanas     | Desarrollando una aplicación que nos permita probar el sensor GPS | Andrea Trujillo Azpeitia     |
+| 1  | Quiero asegurar que la Maceta tenga las optimas condiciones de humedad y temperartura  a lo largo del día                                          | Alta      | 3 semanas     | Manteniendo regada la tierra y que la planta este en un lugar con suficiente luz solar.                               | Rincon Torres Juan Antonio  |
+| 2  | Quiero que el sistema me avise durante el día si el tanque de agua necesita rellenarse o si el ambiente es muy caliente durante el Día  | Alta      | 3 semanas     | Con un Led de Algun color y un buzzer que emita las alertas en tiempo Real, dependiendo de la situación este emite alertas distintas.            | Duarte Vázquez José Carlos  |
+
