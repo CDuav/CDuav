@@ -1,8 +1,6 @@
 # projectIoT2022 Maceta Inteligente
 
 ## Integrantes
-
-- Juan Antonio Rincon Torres
 - Duarte Vázquez José Carlos 
 
 ## Objetivo general
