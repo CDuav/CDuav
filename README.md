@@ -1,4 +1,4 @@
-# projectIoT2022 Maceta Inteligente
+# projectIoT2023 Maceta Inteligente
 
 ## Integrantes
 - Duarte Vázquez José Carlos 
